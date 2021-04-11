@@ -4,8 +4,6 @@ Create a Budget class that can instantiate objects based on different budget cat
 2.  Withdrawing funds from each category
 3.  Computing category balances
 4.  Transferring balance amounts between categories
-
-.
 # Built With
 PYTHON
 # Features
